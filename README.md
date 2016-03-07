@@ -7,8 +7,6 @@ Featuring:
 - Docker Machine v0.5.4
 - Python 3.5
 
-Blog post -> https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/
-
 ### OS X Instructions
 
 1. Start new machine - `docker-machine create -d virtualbox dev;`
