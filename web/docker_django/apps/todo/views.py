@@ -9,6 +9,7 @@ def home(request):
     context = {
         'heading': 'clean blog',
         'subheading': 'A Clean Blog Theme by Start Bootstrap',
+        'image': 'home-bg.jpg',
     }
     return render(request, 'home.html', context)
 
